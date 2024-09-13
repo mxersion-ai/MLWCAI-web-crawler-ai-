@@ -3,7 +3,7 @@ An simple ai that we made for a few experiments, it can be used to boost site tr
 
 # To use:
 
-'''cd  MLWCAI'''
+cd  MLWCAI
 '''./start.sh'''
 
 # Installation
